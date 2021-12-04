@@ -1,0 +1,5 @@
+https://blog.majestic.com/case-studies/correlation-data-transformations/
+
+https://www.freecodecamp.org/news/how-machines-make-predictions-finding-correlations-in-complex-data-dfd9f0d87889/
+
+https://medium.com/analytics-vidhya/how-to-measure-the-non-linear-correlation-between-multiple-variables-804d896760b8

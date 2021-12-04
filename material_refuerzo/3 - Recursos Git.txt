@@ -1,0 +1,11 @@
+Guía de inicio en GitHub:
+https://conociendogithub.readthedocs.io/en/latest/data/dinamica-de-uso/
+
+Tutorial Git/GitHub
+https://bluuweb.github.io/tutorial-github/guia/github.html
+
+Resumen sencillo de uso de Git
+http://rogerdudler.github.io/git-guide/index.es.html
+
+Documentación oficial de GitHub
+https://guides.github.com/

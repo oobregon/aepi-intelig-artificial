@@ -1,0 +1,31 @@
+Próximos pasos
+---------------------------------------------------------------
+
+1. Repaso general
+---------------------------------------------------------
+Libro de redes neuronales y Deep Learning
+http://neuralnetworksanddeeplearning.com/chap2.html
+
+
+2. Ampliación de redes convolucionales y Computer Vision
+---------------------------------------------------------
+Curso de Computer Vision
+https://cs231n.github.io/
+
+Libro de Computer Vision
+http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf
+
+Notebooks de Computer Vision
+http://csundergrad.science.uoit.ca/courses/cv-notes/
+
+
+2. Ampliación de redes recurrentes y NLP
+---------------------------------------------------------
+Curso de NLP
+http://web.stanford.edu/class/cs224n/
+
+Libro de NLP
+https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+
+Paper de NLP
+https://arxiv.org/pdf/1703.03091.pdf

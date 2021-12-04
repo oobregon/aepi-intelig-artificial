@@ -1,0 +1,9 @@
+# YOLO-V3 explicado
+https://towardsdatascience.com/yolo-v3-explained-ff5b850390f
+https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b
+
+# Sitio web 
+https://pjreddie.com/darknet/yolo/
+
+# Repositorio 
+https://github.com/pjreddie/darknet

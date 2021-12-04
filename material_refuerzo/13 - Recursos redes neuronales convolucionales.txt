@@ -1,0 +1,8 @@
+CS231n de Stanford
+https://cs231n.github.io/convolutional-networks/
+
+¿Cómo se elige el número de in_channels y out_channels en las capas conv2d en PyTorch?
+https://discuss.pytorch.org/t/how-do-you-pick-the-number-of-in-channels-and-out-channels-in-conv2d-layers/12787/3
+
+¿Cómo elegir el número de capas ocultas y de neuronas en cada capa oculta?
+https://www.heatonresearch.com/2017/06/01/hidden-layers.html
